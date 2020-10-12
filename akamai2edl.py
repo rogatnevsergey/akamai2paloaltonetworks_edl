@@ -57,11 +57,9 @@ if file_exists(fn) is True:
     print("Prefixes total: ", p_total)
     f = open(fn)
     readfile = f.read()
-# Create_list_from_file
     file_list = readfile.split()
 # Clean_the_list_keeping_prefixes_only
     ip_list = list(filter(lambda v: match('\d', v), file_list))
-# Create_Update_EDL_HTML_file
     edl_list = "akamai-edl.html"
     if file_exists(edl_list) is True:
         print('')
