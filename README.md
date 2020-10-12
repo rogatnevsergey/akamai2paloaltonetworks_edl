@@ -9,7 +9,9 @@ And generates "akamai-edl.html" file that could be used as a EDL source.
 
 Downloading the files is done using a git clone command or a direct download of the repo as a zip file.
 
+```
 https://github.com/sergeyrogatnev/akamai2paloaltonetworks_edl.git
+```
 
 ## To Do
 
