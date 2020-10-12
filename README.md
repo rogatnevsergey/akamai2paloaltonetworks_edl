@@ -4,8 +4,7 @@ This project is to automate PaloAltoNetworks firewall EDL creation from Akamai S
 
 ## Quick Start
 
-The script takes "akamai.txt" file as input.
-And generates "akamai-edl.html" file that could be used as a EDL source.
+The script takes "akamai.txt" file as input and generates "akamai-edl.html" file that could be used as an EDL source.
 
 Downloading the files is done using a git clone command or a direct download of the repo as a zip file.
 
