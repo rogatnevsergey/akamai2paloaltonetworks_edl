@@ -17,4 +17,5 @@ https://github.com/sergeyrogatnev/akamai2paloaltonetworks_edl.git
 
 1. Fetch Akamai Shield prefix list from Akamai,
 2. Once script run, verify all IP in the list are valid IPv4 prefixes,
-3. Published the new generated EDL to web site. 
+3. Published the new generated EDL to web site,
+4. Send email to provide status.
