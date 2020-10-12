@@ -89,3 +89,7 @@ else:
 
 # TO_DO
 # Update_html_page_on_a_webserver_with_new_EDL_list
+
+# TO_DO
+# Send email to provide status
+
